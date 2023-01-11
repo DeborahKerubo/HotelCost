@@ -1,8 +1,8 @@
 # HotelCost
-Write a program that computes the hotel bill for the user’s stay.
+This is a program that computes the hotel bill for the user’s stay.
 The program should ask the user to enter:
 • the number of nights they will be staying
-The program should calculate and display:
+The program  calculates  and displays :
 • the charge for the room assuming a room rate of $179.00 per night
 • the sales tax using a rate of 4.75%
 • the county tax using a rate of 2.25%
